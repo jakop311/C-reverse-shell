@@ -15,7 +15,7 @@ https://github.com/jakop311/C-reverse-shell.git
 ```
 2. Change the IP_ADDRESS to your Attack Machine
 
-3. Change the LISTENING_PORT on your Attack Machine
+3. Change the LISTENING_PORT to the port you will listen on your Attack Machine
 
 4. Build it
 
