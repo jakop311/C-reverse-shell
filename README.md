@@ -4,8 +4,8 @@
 
 A simple reverse shell for Windows written in C with Visual Studio 2022.  
 
-The target machine is **Windows**.  
-The attack machine is **Linux**.
+The target machine is **Windows** and the attack machine is **Linux**.  
+For mine, it was Windows 11 - Ubuntu 22.04
 
 ### How to
 
