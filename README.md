@@ -8,7 +8,7 @@ The attack machine is **Linux**
 
 ### How to
 
-* 1 Clone the repository on Visual Studio
+* 1. Clone the repository on Visual Studio
 
 ```
 https://github.com/jakop311/C-reverse-shell.git
