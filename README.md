@@ -10,9 +10,8 @@ The attack machine is **Linux**
 
 * 1 Clone the repository on Visual Studio
 
-'''
-https://github.com/jakop311/C-reverse-shell.git
-'''
+  https://github.com/jakop311/C-reverse-shell.git
+
 
 * 2 Change the IP_ADDRESS to your Attack Machine
 
