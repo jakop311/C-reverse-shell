@@ -7,7 +7,7 @@ A simple reverse shell for Windows written in C with Visual Studio 2022.
 The target machine is **Windows** and the attack machine is **Linux**.  
 For mine, it was Windows 11 - Ubuntu 20.04
 
-*For Research Purpose*
+**For Research Purpose**
 
 ### How to
 
